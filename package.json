@@ -1,0 +1,14 @@
+{
+  "name": "imagecompressor",
+  "version": "0.0.1",
+  "description": "A image compressor",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Samuel",
+  "dependencies": {
+    "sharp": "^0.31.2"
+  }
+}
