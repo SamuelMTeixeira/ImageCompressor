@@ -9,3 +9,5 @@ sharp('path')
             .jpeg({ quality: YOUR_QUALITY }) // RANGE TO 0 FROM 100
             .toFile(`image/destiny/${urlImage}`);
 ```
+
+To execute, use `yarn start` and the compressed images will go into the `image/destiny` folder
